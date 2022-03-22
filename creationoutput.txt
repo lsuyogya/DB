@@ -1,0 +1,174 @@
+
+Sequence ADDRESS_ADDRESS_ID_SEQ created.
+
+
+Sequence ASSIGNMENT_ASSIGNMENT_ID_SEQ created.
+
+
+Sequence DEPARTMENT_DEPARTMENT_ID_SEQ created.
+
+
+Sequence GRADE_GRADE_ID_SEQ created.
+
+
+Sequence SEMESTER_SEMESTER_ID_SEQ created.
+
+
+Sequence STUDENT_STUDENT_ID_SEQ created.
+
+
+Sequence TEACHER_TEACHER_ID_SEQ created.
+
+
+Table ADDRESS created.
+
+
+Table ADDRESS altered.
+
+
+Table "address_teacher" created.
+
+
+Table "address_teacher" altered.
+
+
+Table ASSIGNMENT created.
+
+
+Table ASSIGNMENT altered.
+
+
+Table DEPARTMENT created.
+
+
+Table DEPARTMENT altered.
+
+
+Table GRADE created.
+
+
+Table GRADE altered.
+
+
+Table MODULE created.
+
+
+Table MODULE altered.
+
+
+Table MODULE_STUDENT created.
+
+
+Table MODULE_STUDENT altered.
+
+
+Table MODULE_TEACHER created.
+
+
+Table MODULE_TEACHER altered.
+
+
+Table SEMESTER created.
+
+
+Table SEMESTER altered.
+
+
+Table STUDENT created.
+
+
+Table STUDENT altered.
+
+
+Table STUDENT_ASSIGNMENT created.
+
+
+Table STUDENT_ASSIGNMENT altered.
+
+
+Table STUDENT_ATTENDANCE created.
+
+
+Table STUDENT_FEES created.
+
+
+Table STUDENT_FEES altered.
+
+
+Table TEACHER created.
+
+
+Table TEACHER altered.
+
+
+Table "address_teacher" altered.
+
+
+Table "address_teacher" altered.
+
+
+Table ASSIGNMENT altered.
+
+
+Table STUDENT_ATTENDANCE altered.
+
+
+Table STUDENT_ATTENDANCE altered.
+
+
+Table STUDENT_ATTENDANCE altered.
+
+
+Table MODULE_STUDENT altered.
+
+
+Table MODULE_STUDENT altered.
+
+
+Table MODULE_TEACHER altered.
+
+
+Table MODULE_TEACHER altered.
+
+
+Table STUDENT_ASSIGNMENT altered.
+
+
+Table STUDENT_ASSIGNMENT altered.
+
+
+Table STUDENT_ASSIGNMENT altered.
+
+
+Table STUDENT_ASSIGNMENT altered.
+
+
+Table STUDENT_FEES altered.
+
+
+Table STUDENT_FEES altered.
+
+
+Table STUDENT_FEES altered.
+
+
+Trigger ADDRESS_ADDRESS_ID_TRG compiled
+
+
+Trigger ASSIGNMENT_ASSIGNMENT_ID_TRG compiled
+
+
+Trigger DEPARTMENT_DEPARTMENT_ID_TRG compiled
+
+
+Trigger GRADE_GRADE_ID_TRG compiled
+
+
+Trigger SEMESTER_SEMESTER_ID_TRG compiled
+
+
+Trigger STUDENT_STUDENT_ID_TRG compiled
+
+
+Trigger TEACHER_TEACHER_ID_TRG compiled
+
